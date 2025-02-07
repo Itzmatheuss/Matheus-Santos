@@ -1,6 +1,6 @@
 # Olá, eu sou o Matheus! 👋
 
-# 💫 Sobre mim:
+# 💫 Sobre mim :
 👨‍💻 Engenheiro de Computação | Desenvolvedor Full Stack<br>🌐 Apaixonado por criar soluções inovadoras e eficientes.<br>🧠 Interesse em Inteligência Artificial e Data Science, sempre explorando novas ideias.<br>⚡ Busco unir criatividade e tecnologia para resolver problemas do mundo real. 
 
 
